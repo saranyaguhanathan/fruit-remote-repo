@@ -1,0 +1,4 @@
+echo 'Hello World'
+echo 'Listing Files'
+ls
+echo 'Listed Files'
